@@ -7,3 +7,4 @@ Organización Computacional
 | Nombre                                    | Carnet    |
 | ----------------------------------------- | --------- |
 | Carlos Gonzalo Fernando Montezuma Morales | 202504046 |
+| Josselyn Gabriela Mendoza Camargo         | 202500317 |
